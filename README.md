@@ -20,7 +20,7 @@ I am a member of the technical staff at MIT Lincoln Laboratory. I received my Ph
 - [LinkedIn](https://www.linkedin.com/in/matthew-cleaveland-4775abba/)
 - [Github](https://github.com/earnedkibbles58)
 - [Google Scholar](https://scholar.google.com/citations?user=-zdHsU8AAAAJ&hl=en)
-- 
+
 ---
 
 ---
