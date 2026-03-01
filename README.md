@@ -1,9 +1,18 @@
 # Matthew Cleaveland
 
-I am a member of the technical staff at MIT Lincoln Laboratory. I received my PhD in Electrical and Systems Engineering from the University of Pennsylvania in 2024, where I was advised by [Insup Lee](https://www.cis.upenn.edu/~lee/) and [George Pappas](https://www.georgejpappas.org/) and was a member of the [GRASP Lab](https://grasp.upenn.edu/) and the [PRECISE Center](https://precise.seas.upenn.edu/). My research focuses on the safety and reliability of autonomous and cyber-physical systems, with an emphasis on uncertainty quantification, conformal prediction, and probabilistic verification for learning-enabled systems. Prior to joining Penn, I did my undergrad at Duke, where I was a member of the [Cyber-Physical Systems Lab](https://cpsl.pratt.duke.edu/) under the guidance of [Miroslav Pajic](https://cpsl.pratt.duke.edu/people/miroslav-pajic).
+<table>
+  <tr>
+    <td>
 
+I am a member of the technical staff at MIT Lincoln Laboratory. I received my PhD in Electrical and Systems Engineering from the University of Pennsylvania, where I was advised by [Insup Lee](https://www.cis.upenn.edu/~lee/) and [George Pappas](https://www.georgejpappas.org/) and was a member of the [GRASP Lab](https://grasp.upenn.edu/) and the [PRECISE Center](https://precise.seas.upenn.edu/). My research focuses on the safety and reliability of autonomous and cyber-physical systems, with an emphasis on probabilistic verification, conformal prediction, and runtime monitoring for learning-enabled systems. I did my undergrad at Duke University, where I was a member of the [Cyber-Physical Systems Lab](https://cpsl.pratt.duke.edu/) under the guidance of [Miroslav Pajic](https://cpsl.pratt.duke.edu/people/miroslav-pajic).
 
-![Matthew Cleaveland](https://github.com/user-attachments/assets/1d3eb7e1-71fd-420d-b9eb-5352408f9e1a)
+   </td>
+    <td width="225">
+      <img src="https://github.com/user-attachments/assets/1d3eb7e1-71fd-420d-b9eb-5352408f9e1a" width="200"/>
+    </td>
+  </tr>
+</table>
+
 
 ## Links
 
