@@ -23,8 +23,6 @@ I am a member of the technical staff at MIT Lincoln Laboratory. I received my Ph
 
 ---
 
----
-
 ## Publications
 
 ### 2026
